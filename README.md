@@ -9,7 +9,7 @@
   <div class="container">
   <h3>TodoApp<h3>
     <p>This is simple Application using JavaScript</p>
-      <span>Check Out Project Here <a href="https://sunilyadav-web.github.io/TodoApp/" target="_blank">Link</a>
+      <span>Check Out Project Here <a href="https://sunilyadav91.github.io/todo-app/" target="_blank">Link</a>
   </div>
 </body>
 </html>
